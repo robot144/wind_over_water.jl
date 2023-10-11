@@ -1,0 +1,9 @@
+name = "wind_over_water"
+uuid = "8a220921-642b-4be1-b95e-0ec5d58c2ec2"
+authors = ["robot144 <robot144@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
