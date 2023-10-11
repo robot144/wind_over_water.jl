@@ -3,4 +3,4 @@ A study of the atmospheric boundary layer over the ocean
 
 ## Log
 
-- add first test with a log-profile. Note that the solution is NOT CORRECT yet.
+- First test with a log-profile. The turbulence closure uses the simple algebraic model $\nu=\kappa u_{*} z$.
